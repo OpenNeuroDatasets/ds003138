@@ -1,10 +1,10 @@
 {
     "Acknowledgements": "TODO: whom you want to acknowledge",
     "Authors": [
-        "TODO:",
-        "First1 Last1",
-        "First2 Last2",
-        "..."
+        "...",
+        "Karl Koschutnig",
+        "Bernhard Weber",
+        "Andreas Fink"
     ],
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "10.18112/openneuro.ds003138.v1.0.0",

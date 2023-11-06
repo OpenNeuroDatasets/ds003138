@@ -1,0 +1,17 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "MFT Challenge Disc (MFT Bodyteamwork, Austria). This postural control test is based on the S3 Body-stability-test (S3 Check), which is a method to assess functional body stability and sensomotory regulation ability. Lower values indicate better performance. Values range between 0 and 5.",
+        "TermURL": "http://https://www.challenge-disc.com"
+    },
+
+    "bl_1": {
+        "Description": "Postural control with both legs at the FIRST time point."},
+    "bl_2": {"Description": "Postural control with both legs at the SECOND time point."},
+    "bl_3": {"Description": "Postural control with both legs at the THIRD time point."},
+    "rl_1": {"Description": "Postural control with right legs at the FIRST time point. "},
+    "rl_2": {"Description": "Postural control with right legs at the SECOND time point. "},
+    "rl_3": {"Description": "Postural control with right legs at the THIRD time point. "},
+    "ll_1": {"Description": "Postural control with left legs at the FIRST time point. "},
+    "ll_2": {"Description": "Postural control with left legs at the SECOND time point. "},
+    "ll_3": {"Description": "Postural control with left legs at the THIRD time point. "}
+}
